@@ -10,6 +10,6 @@ GSM 교내 급식 선호도 조사 서비스입니다.
 
 
 ### 관련링크
+- **[v2 레포지토리](https://github.com/key-del-jeeinho/golabab-v2-account-server)**
 - [프론트엔드 레포지토리](https://github.com/sunwoo0706/Golabab-Page)
-- [v2 레포지토리](https://github.com/key-del-jeeinho/golabab-v2-account-server)
 - [개발 가이드](https://woozy-nut-6be.notion.site/93e58a156bcc43e0a5b34025e31146d2)
